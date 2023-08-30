@@ -24,6 +24,8 @@ public class ImNotEmpty {
     }
 
     // Exclusive OR, kaldet XOR
-    if (age < 10 ^ age >= 18)
+    if (age < 10 ^ age >= 18) {
+
+    }
   }
 }
